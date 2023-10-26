@@ -3,3 +3,5 @@
 Subset Sum problem : https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
 
 Equal sum partition problem : https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1
+
+Two subset whose difference is minimum : https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
