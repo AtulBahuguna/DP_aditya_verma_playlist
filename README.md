@@ -20,3 +20,9 @@ Rod Cutting Problem : https://practice.geeksforgeeks.org/problems/rod-cutting084
 Coin chain Problem 1: https://practice.geeksforgeeks.org/problems/coin-change2448/1
 
 Coin chain Problem 2: https://practice.geeksforgeeks.org/problems/number-of-coins1824/1
+
+
+
+__________________( Longest Common Subsequence )
+
+Longest Common Subsequence : https://leetcode.com/problems/longest-common-subsequence/description/
