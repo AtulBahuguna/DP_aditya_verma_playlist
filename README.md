@@ -31,3 +31,5 @@ __________________( Longest Common Subsequence )
 Longest Common Subsequence : https://leetcode.com/problems/longest-common-subsequence/description/
 
 Print Longest Common Subsequence: https://www.codingninjas.com/studio/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM
+
+Shortest Common Supersequence: https://leetcode.com/problems/shortest-common-supersequence/
