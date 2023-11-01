@@ -29,3 +29,5 @@ Coin chain Problem 2: https://practice.geeksforgeeks.org/problems/number-of-coin
 __________________( Longest Common Subsequence )
 
 Longest Common Subsequence : https://leetcode.com/problems/longest-common-subsequence/description/
+
+Print Longest Common Subsequence: https://www.codingninjas.com/studio/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM
