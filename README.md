@@ -33,3 +33,5 @@ Longest Common Subsequence : https://leetcode.com/problems/longest-common-subseq
 Print Longest Common Subsequence: https://www.codingninjas.com/studio/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM
 
 Shortest Common Supersequence: https://leetcode.com/problems/shortest-common-supersequence/
+
+Minimum Number of insertion and deletion to make string A to B : https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
