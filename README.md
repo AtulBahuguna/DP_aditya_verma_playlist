@@ -35,3 +35,5 @@ Print Longest Common Subsequence: https://www.codingninjas.com/studio/problems/p
 Shortest Common Supersequence: https://leetcode.com/problems/shortest-common-supersequence/
 
 Minimum Number of insertion and deletion to make string A to B : https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
+
+Minimum Insertion steps to make a String palindrome (Leetcode 1312 (Hard) ) : https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
