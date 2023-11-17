@@ -37,3 +37,9 @@ Shortest Common Supersequence: https://leetcode.com/problems/shortest-common-sup
 Minimum Number of insertion and deletion to make string A to B : https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1
 
 Minimum Insertion steps to make a String palindrome (Leetcode 1312 (Hard) ) : https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+
+
+
+__________________( Matrix Chain Multiplication) 
+
+Matrix Chain Multiplication : https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
